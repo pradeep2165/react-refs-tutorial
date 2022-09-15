@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import FRInput from "./FRInput";
 
 class Input extends Component {
   constructor(props) {
